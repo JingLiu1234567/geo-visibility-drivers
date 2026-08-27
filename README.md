@@ -5,8 +5,8 @@ using 13 days of answers from 8 AI search engines to 182 prompts across three pr
 (SERP APIs, LLM-answer scraping APIs, AI-visibility tracking APIs). The brand under study is cloro.
 
 The written report (Google Doc) presents the findings; this repository holds the code that produces every
-number in it. `METHODS.md` explains the mathematical mechanisms behind each conclusion and maps each
-conclusion to the script and table that produced it.
+number in it. `METHODS.md` explains how each number was computed and maps each conclusion to the script and
+table that produced it.
 
 ## Pipeline
 
@@ -16,7 +16,7 @@ conclusion to the script and table that produced it.
 | 2 | `code/02_brand_lexicon.py` | recognition rules for 140 brands (41 README competitors + cloro + 98 context brands): name regex with word boundaries, case rules and category-term exclusions; domain list for citations; full-corpus match QA | `data/brands.csv` |
 | 3 | `code/03_extract.py` | labels every (answer, brand) pair: `mentioned`, `position`, `cited` (README definitions) + `listed_option`, `named_in_prompt` | `data/answer_brand.parquet`, `data/answers.parquet` |
 | 4 | `code/04_describe.py` | rankings per motion × engine, cloro's position, day-to-day stability | `out/leaderboard*.csv`, `out/cloro_position.csv`, `out/stability_cloro.csv` |
-| 5 | `code/05_drivers.py` | drivers: conditional-probability contrasts and fixed-effects regressions (logit + linear probability model, SE clustered by prompt × engine) | `out/drv_*.csv`, `out/regression.txt` |
+| 5 | `code/05_drivers.py` | drivers: conditional rate contrasts (one factor at a time), plus an additional regression check | `out/drv_*.csv`, `out/regression.txt` |
 
 ## Reproduce
 
@@ -44,13 +44,13 @@ are committed so the reported numbers can be checked without re-running.
 
 ## Key results (core window, five engines pooled)
 
-- Being cited is the strongest driver of a mention: P(mention | cited) = 43.9% vs P(mention | not cited) = 4.8%;
-  odds ratio 41 (logit with brand/engine/topic/intent fixed effects), +32 pp (LPM with prompt fixed effects).
-  The effect ranges from +15 pp on Perplexity to +51 pp on Copilot.
-- The first position is driven by being the answer's **first-ranked source** (71.8% vs 20.9%; OR 11, +40 pp),
-  far more than by being cited at all (+6 pp). Prompts that name a brand hand it the first position 94% of the
-  time (a "target" effect, excluded from first-position rates).
-- cloro is cited at top-tier rates (2nd, 2nd and 4th in its three categories) but converts citations to mentions
-  at 15–31% against 54–94% for the leaders, and is almost never mentioned without a citation (≤ 2.2% vs 11–60%).
+- Being cited is the strongest driver of visibility: a brand is mentioned in 43.9% of the answers that cite
+  one of its pages, against 4.8% of the answers that do not.
+- The first position is driven by citation order: among mentioned brands, the first-position rate is 71.8%
+  when the brand is the answer's first-ranked source, against 20.9% otherwise.
+- cloro is cited at top-tier rates (2nd, 2nd and 4th in its three categories) but mentioned rarely: in the
+  answers that cite it, its visibility is 15–31% against 54–94% for the leaders, and without a citation it is
+  at most 2.2% against 11–60% for the leaders.
 
-See `METHODS.md` for definitions, formulas, model specifications and confidence intervals.
+See `METHODS.md` for definitions, formulas and confidence intervals, and for an additional regression check
+that is not relied on in the report.
