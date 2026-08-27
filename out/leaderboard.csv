@@ -1,0 +1,301 @@
+﻿motion,engine,brand,n,visibility,top1_rate,top1_clean,avg_pos,cited_rate,listed_rate,named_share,name,rank_vis,rank_top1
+ai-tracking-api,AIMODE,amicited,609.0,0.0016,0.0,0.0,3.0,0.0296,0.0016,0.0,AmICited,14,13
+ai-tracking-api,AIMODE,ayzeo,609.0,0.0099,0.0,0.0,3.1666666666666665,0.0213,0.0082,0.0,Ayzeo,13,13
+ai-tracking-api,AIMODE,cloro,609.0,0.0131,0.0082,0.0082,2.25,0.0542,0.0066,0.0,cloro,12,8
+ai-tracking-api,AIMODE,deepsmith,609.0,0.0,0.0,0.0,,0.0066,0.0,0.0,DeepSmith,16,13
+ai-tracking-api,AIMODE,demandsphere,609.0,0.0197,0.0016,0.0016,3.4166666666666665,0.0263,0.0148,0.0,DemandSphere,11,12
+ai-tracking-api,AIMODE,evertune,609.0,0.0246,0.0049,0.0049,2.8,0.0279,0.0164,0.0,Evertune,10,10
+ai-tracking-api,AIMODE,foglift,609.0,0.0,0.0,0.0,,0.0033,0.0,0.0,Foglift,16,13
+ai-tracking-api,AIMODE,geneo,609.0,0.0,0.0,0.0,,0.0099,0.0,0.0,Geneo,16,13
+ai-tracking-api,AIMODE,llmpulse,609.0,0.0542,0.0213,0.0213,2.1515151515151514,0.1248,0.0361,0.0,LLM Pulse,5,3
+ai-tracking-api,AIMODE,mentionsapi,609.0,0.0378,0.0131,0.0131,2.8260869565217392,0.0213,0.0296,0.0,MentionsAPI,7,6
+ai-tracking-api,AIMODE,otterly,609.0,0.1593,0.0312,0.0312,2.731958762886598,0.1494,0.1084,0.0,Otterly.AI,3,2
+ai-tracking-api,AIMODE,peec,609.0,0.1839,0.0197,0.0197,3.0,0.0542,0.1264,0.0,Peec,2,5
+ai-tracking-api,AIMODE,profound,609.0,0.3218,0.1905,0.1905,1.8214285714285714,0.1741,0.2118,0.0,Profound,1,1
+ai-tracking-api,AIMODE,prominenceai,609.0,0.0,0.0,0.0,,0.0,0.0,0.0,Prominence AI,16,13
+ai-tracking-api,AIMODE,rankprompt,609.0,0.0296,0.0213,0.0213,1.5,0.0509,0.0279,0.0,RankPrompt,8,3
+ai-tracking-api,AIMODE,rankscale,609.0,0.046,0.0099,0.0099,2.7142857142857144,0.0164,0.0394,0.0,Rankscale,6,7
+ai-tracking-api,AIMODE,scrunch,609.0,0.0558,0.0033,0.0033,2.8529411764705883,0.0263,0.0443,0.0,Scrunch AI,4,11
+ai-tracking-api,AIMODE,siftly,609.0,0.0296,0.0066,0.0066,3.0,0.0755,0.0246,0.0,Siftly,8,9
+ai-tracking-api,AIMODE,writesonic,609.0,0.0016,0.0,0.0,2.0,0.0509,0.0,0.0,Writesonic,14,13
+ai-tracking-api,CHATGPT,amicited,610.0,0.0016,0.0,0.0,5.0,0.0295,0.0,0.0,AmICited,17,15
+ai-tracking-api,CHATGPT,ayzeo,610.0,0.0,0.0,0.0,,0.0148,0.0,0.0,Ayzeo,19,15
+ai-tracking-api,CHATGPT,cloro,610.0,0.0213,0.0082,0.0082,2.3076923076923075,0.1131,0.0164,0.0,cloro,9,7
+ai-tracking-api,CHATGPT,deepsmith,610.0,0.0016,0.0,0.0,2.0,0.0115,0.0016,0.0,DeepSmith,17,15
+ai-tracking-api,CHATGPT,demandsphere,610.0,0.0246,0.0082,0.0082,2.0,0.0541,0.023,0.0,DemandSphere,8,7
+ai-tracking-api,CHATGPT,evertune,610.0,0.0033,0.0,0.0,2.5,0.023,0.0016,0.0,Evertune,15,15
+ai-tracking-api,CHATGPT,foglift,610.0,0.0148,0.0033,0.0033,2.4444444444444446,0.0721,0.0098,0.0,Foglift,11,12
+ai-tracking-api,CHATGPT,geneo,610.0,0.0115,0.0,0.0,2.4285714285714284,0.0131,0.0115,0.0,Geneo,12,15
+ai-tracking-api,CHATGPT,llmpulse,610.0,0.0377,0.0246,0.0246,1.6521739130434783,0.1082,0.0279,0.0,LLM Pulse,5,3
+ai-tracking-api,CHATGPT,mentionsapi,610.0,0.0377,0.0131,0.0131,2.260869565217391,0.1049,0.0377,0.0,MentionsAPI,5,5
+ai-tracking-api,CHATGPT,otterly,610.0,0.1377,0.0344,0.0344,2.8452380952380953,0.0918,0.0934,0.0,Otterly.AI,3,2
+ai-tracking-api,CHATGPT,peec,610.0,0.1459,0.0164,0.0164,2.6292134831460676,0.0557,0.1164,0.0,Peec,2,4
+ai-tracking-api,CHATGPT,profound,610.0,0.1754,0.0902,0.0902,1.7757009345794392,0.0787,0.1295,0.0,Profound,1,1
+ai-tracking-api,CHATGPT,prominenceai,610.0,0.0344,0.0131,0.0131,1.9523809523809523,0.0508,0.0344,0.0,Prominence AI,7,5
+ai-tracking-api,CHATGPT,rankprompt,610.0,0.0082,0.0049,0.0049,2.2,0.0066,0.0082,0.0,RankPrompt,13,11
+ai-tracking-api,CHATGPT,rankscale,610.0,0.0082,0.0016,0.0016,3.8,0.0098,0.0082,0.0,Rankscale,13,13
+ai-tracking-api,CHATGPT,scrunch,610.0,0.0738,0.0066,0.0066,2.933333333333333,0.0279,0.0623,0.0,Scrunch AI,4,10
+ai-tracking-api,CHATGPT,siftly,610.0,0.0197,0.0082,0.0082,1.5833333333333333,0.0475,0.0164,0.0,Siftly,10,7
+ai-tracking-api,CHATGPT,writesonic,610.0,0.0033,0.0016,0.0016,1.5,0.018,0.0033,0.0,Writesonic,15,13
+ai-tracking-api,COPILOT,amicited,610.0,0.0016,0.0016,0.0016,1.0,0.0164,0.0,0.0,AmICited,16,11
+ai-tracking-api,COPILOT,ayzeo,610.0,0.0082,0.0,0.0,3.4,0.0,0.0082,0.0,Ayzeo,13,14
+ai-tracking-api,COPILOT,cloro,610.0,0.0279,0.0164,0.0164,1.588235294117647,0.0705,0.0246,0.0,cloro,8,4
+ai-tracking-api,COPILOT,deepsmith,610.0,0.0049,0.0016,0.0016,3.0,0.0492,0.0,0.0,DeepSmith,14,11
+ai-tracking-api,COPILOT,demandsphere,610.0,0.0148,0.0049,0.0049,1.6666666666666667,0.0148,0.0148,0.0,DemandSphere,10,8
+ai-tracking-api,COPILOT,evertune,610.0,0.0475,0.0016,0.0016,3.0,0.0082,0.041,0.0,Evertune,6,11
+ai-tracking-api,COPILOT,foglift,610.0,0.0098,0.0082,0.0082,1.1666666666666667,0.0,0.0066,0.0,Foglift,12,7
+ai-tracking-api,COPILOT,geneo,610.0,0.0,0.0,0.0,,0.0049,0.0,0.0,Geneo,18,14
+ai-tracking-api,COPILOT,llmpulse,610.0,0.077,0.023,0.023,2.3191489361702127,0.0918,0.0738,0.0,LLM Pulse,4,2
+ai-tracking-api,COPILOT,mentionsapi,610.0,0.0115,0.0115,0.0115,1.0,0.0115,0.0115,0.0,MentionsAPI,11,6
+ai-tracking-api,COPILOT,otterly,610.0,0.123,0.018,0.018,2.973333333333333,0.0311,0.1049,0.0,Otterly.AI,3,3
+ai-tracking-api,COPILOT,peec,610.0,0.1246,0.0049,0.0049,3.0,0.0,0.1082,0.0,Peec,2,8
+ai-tracking-api,COPILOT,profound,610.0,0.1836,0.0639,0.0639,2.669642857142857,0.0,0.1508,0.0,Profound,1,1
+ai-tracking-api,COPILOT,prominenceai,610.0,0.0,0.0,0.0,,0.0,0.0,0.0,Prominence AI,18,14
+ai-tracking-api,COPILOT,rankprompt,610.0,0.0311,0.0164,0.0164,1.9473684210526316,0.018,0.0311,0.0,RankPrompt,7,4
+ai-tracking-api,COPILOT,rankscale,610.0,0.0213,0.0049,0.0049,3.230769230769231,0.0,0.018,0.0,Rankscale,9,8
+ai-tracking-api,COPILOT,scrunch,610.0,0.0492,0.0,0.0,3.7,0.0,0.0393,0.0,Scrunch AI,5,14
+ai-tracking-api,COPILOT,siftly,610.0,0.0016,0.0,0.0,3.0,0.0098,0.0,0.0,Siftly,16,14
+ai-tracking-api,COPILOT,writesonic,610.0,0.0033,0.0,0.0,6.0,0.0016,0.0033,0.0,Writesonic,15,14
+ai-tracking-api,GEMINI,amicited,610.0,0.0115,0.0033,0.0033,2.142857142857143,0.0295,0.0066,0.0,AmICited,12,10
+ai-tracking-api,GEMINI,ayzeo,610.0,0.0066,0.0049,0.0049,2.25,0.0197,0.0049,0.0,Ayzeo,15,7
+ai-tracking-api,GEMINI,cloro,610.0,0.0639,0.0344,0.0344,1.9230769230769231,0.0574,0.059,0.0,cloro,4,3
+ai-tracking-api,GEMINI,deepsmith,610.0,0.0098,0.0,0.0,3.8333333333333335,0.0082,0.0082,0.0,DeepSmith,14,15
+ai-tracking-api,GEMINI,demandsphere,610.0,0.0016,0.0,0.0,5.0,0.0016,0.0016,0.0,DemandSphere,16,15
+ai-tracking-api,GEMINI,evertune,610.0,0.0148,0.0049,0.0049,2.7777777777777777,0.0082,0.0082,0.0,Evertune,11,7
+ai-tracking-api,GEMINI,foglift,610.0,0.0115,0.0033,0.0033,2.2857142857142856,0.0016,0.0033,0.0,Foglift,12,10
+ai-tracking-api,GEMINI,geneo,610.0,0.0016,0.0016,0.0016,1.0,0.0016,0.0016,0.0,Geneo,16,12
+ai-tracking-api,GEMINI,llmpulse,610.0,0.0246,0.0049,0.0049,2.2,0.0148,0.018,0.0,LLM Pulse,9,7
+ai-tracking-api,GEMINI,mentionsapi,610.0,0.0016,0.0,0.0,2.0,0.0016,0.0016,0.0,MentionsAPI,16,15
+ai-tracking-api,GEMINI,otterly,610.0,0.1377,0.0443,0.0443,2.4761904761904763,0.0279,0.1082,0.0,Otterly.AI,2,2
+ai-tracking-api,GEMINI,peec,610.0,0.1262,0.0148,0.0148,3.116883116883117,0.0033,0.1049,0.0,Peec,3,6
+ai-tracking-api,GEMINI,profound,610.0,0.3246,0.1541,0.1541,1.97979797979798,0.0574,0.277,0.0,Profound,1,1
+ai-tracking-api,GEMINI,prominenceai,610.0,0.0,0.0,0.0,,0.0,0.0,0.0,Prominence AI,19,15
+ai-tracking-api,GEMINI,rankprompt,610.0,0.0279,0.0246,0.0246,1.1176470588235294,0.0262,0.0246,0.0,RankPrompt,8,4
+ai-tracking-api,GEMINI,rankscale,610.0,0.0246,0.0016,0.0016,3.1333333333333333,0.0016,0.018,0.0,Rankscale,9,12
+ai-tracking-api,GEMINI,scrunch,610.0,0.0541,0.0016,0.0016,3.0606060606060606,0.0131,0.0377,0.0,Scrunch AI,6,12
+ai-tracking-api,GEMINI,siftly,610.0,0.0607,0.0213,0.0213,2.0,0.0557,0.0393,0.0,Siftly,5,5
+ai-tracking-api,GEMINI,writesonic,610.0,0.0344,0.0,0.0,3.0,0.0279,0.0311,0.0,Writesonic,7,15
+ai-tracking-api,PERPLEXITY,amicited,569.0,0.0018,0.0,0.0,3.0,0.0721,0.0,0.0,AmICited,11,10
+ai-tracking-api,PERPLEXITY,ayzeo,569.0,0.0,0.0,0.0,,0.0264,0.0,0.0,Ayzeo,16,10
+ai-tracking-api,PERPLEXITY,cloro,569.0,0.0158,0.0088,0.0088,1.6666666666666667,0.1019,0.0141,0.0,cloro,2,3
+ai-tracking-api,PERPLEXITY,deepsmith,569.0,0.0018,0.0,0.0,4.0,0.0439,0.0018,0.0,DeepSmith,11,10
+ai-tracking-api,PERPLEXITY,demandsphere,569.0,0.0,0.0,0.0,,0.0,0.0,0.0,DemandSphere,16,10
+ai-tracking-api,PERPLEXITY,evertune,569.0,0.0105,0.0053,0.0053,1.6666666666666667,0.0246,0.0018,0.0,Evertune,5,4
+ai-tracking-api,PERPLEXITY,foglift,569.0,0.0018,0.0018,0.0018,1.0,0.0615,0.0,0.0,Foglift,11,6
+ai-tracking-api,PERPLEXITY,geneo,569.0,0.0,0.0,0.0,,0.0334,0.0,0.0,Geneo,16,10
+ai-tracking-api,PERPLEXITY,llmpulse,569.0,0.0035,0.0018,0.0018,1.5,0.1863,0.0018,0.0,LLM Pulse,8,6
+ai-tracking-api,PERPLEXITY,mentionsapi,569.0,0.0053,0.0035,0.0035,1.3333333333333333,0.0141,0.0035,0.0,MentionsAPI,6,5
+ai-tracking-api,PERPLEXITY,otterly,569.0,0.0123,0.0105,0.0105,1.4285714285714286,0.0984,0.0088,0.0,Otterly.AI,3,2
+ai-tracking-api,PERPLEXITY,peec,569.0,0.0123,0.0018,0.0018,3.5714285714285716,0.0193,0.0088,0.0,Peec,3,6
+ai-tracking-api,PERPLEXITY,profound,569.0,0.0439,0.0158,0.0158,2.16,0.174,0.0246,0.0,Profound,1,1
+ai-tracking-api,PERPLEXITY,prominenceai,569.0,0.0,0.0,0.0,,0.0,0.0,0.0,Prominence AI,16,10
+ai-tracking-api,PERPLEXITY,rankprompt,569.0,0.0018,0.0,0.0,3.0,0.0193,0.0018,0.0,RankPrompt,11,10
+ai-tracking-api,PERPLEXITY,rankscale,569.0,0.0035,0.0,0.0,3.5,0.0088,0.0035,0.0,Rankscale,8,10
+ai-tracking-api,PERPLEXITY,scrunch,569.0,0.0035,0.0018,0.0018,4.5,0.0545,0.0035,0.0,Scrunch AI,8,6
+ai-tracking-api,PERPLEXITY,siftly,569.0,0.0053,0.0,0.0,2.3333333333333335,0.0879,0.0018,0.0,Siftly,6,10
+ai-tracking-api,PERPLEXITY,writesonic,569.0,0.0018,0.0,0.0,9.0,0.0123,0.0018,0.0,Writesonic,11,10
+llm-scraping,AIMODE,airefs,548.0,0.0,0.0,0.0,,0.0073,0.0,0.0,Airefs,19,14
+llm-scraping,AIMODE,apify,548.0,0.2153,0.0328,0.0146,3.5677966101694913,0.2245,0.1515,0.0182,Apify,2,7
+llm-scraping,AIMODE,brightdata,548.0,0.2318,0.0839,0.0675,2.6377952755905514,0.2099,0.1478,0.0182,Bright Data,1,3
+llm-scraping,AIMODE,cloro,548.0,0.0529,0.0328,0.0328,1.9310344827586208,0.1953,0.0182,0.0,cloro,9,4
+llm-scraping,AIMODE,crawlbase,548.0,0.0073,0.0,0.0,2.5,0.0383,0.0055,0.0,Crawlbase,16,14
+llm-scraping,AIMODE,dataforseo,548.0,0.0912,0.0182,0.0182,2.52,0.0967,0.0547,0.0,DataForSEO,7,5
+llm-scraping,AIMODE,firecrawl,548.0,0.1989,0.0876,0.0876,2.1376146788990824,0.2372,0.1752,0.0,Firecrawl,3,2
+llm-scraping,AIMODE,nimble,548.0,0.0055,0.0036,0.0036,1.3333333333333333,0.0566,0.0036,0.0,Nimble,17,11
+llm-scraping,AIMODE,octoparse,548.0,0.0109,0.0,0.0,5.833333333333333,0.1259,0.0073,0.0,Octoparse,15,14
+llm-scraping,AIMODE,oxylabs,548.0,0.0985,0.0055,0.0055,3.888888888888889,0.0675,0.073,0.0,Oxylabs,6,9
+llm-scraping,AIMODE,scrapebadger,548.0,0.0164,0.0055,0.0055,3.2222222222222223,0.1277,0.0036,0.0,ScrapeBadger,14,9
+llm-scraping,AIMODE,scrapedo,548.0,0.0401,0.0018,0.0018,4.590909090909091,0.0949,0.0182,0.0,Scrape.do,12,12
+llm-scraping,AIMODE,scraperapi,548.0,0.1077,0.0182,0.0182,3.152542372881356,0.0201,0.062,0.0,ScraperAPI,5,5
+llm-scraping,AIMODE,scrapfly,548.0,0.0456,0.0018,0.0018,5.4,0.1387,0.0438,0.0,Scrapfly,10,12
+llm-scraping,AIMODE,scrapingbee,548.0,0.073,0.0,0.0,4.275,0.1533,0.0584,0.0,ScrapingBee,8,14
+llm-scraping,AIMODE,scrapingdog,548.0,0.0274,0.0,0.0,3.8666666666666667,0.0529,0.0164,0.0,Scrapingdog,13,14
+llm-scraping,AIMODE,searchapi,548.0,0.0438,0.0091,0.0091,2.4166666666666665,0.0785,0.0365,0.0,SearchApi.io,11,8
+llm-scraping,AIMODE,serpapi,548.0,0.1697,0.1241,0.1241,1.7956989247311828,0.1569,0.1168,0.0,SerpApi,4,1
+llm-scraping,AIMODE,serpentapi,548.0,0.0018,0.0,0.0,2.0,0.0091,0.0018,0.0,SerpentAPI,18,14
+llm-scraping,CHATGPT,airefs,550.0,0.0,0.0,0.0,,0.0109,0.0,0.0,Airefs,17,11
+llm-scraping,CHATGPT,apify,550.0,0.1345,0.0273,0.0164,2.635135135135135,0.1236,0.1236,0.0182,Apify,4,5
+llm-scraping,CHATGPT,brightdata,550.0,0.1909,0.0655,0.0509,2.5904761904761906,0.1709,0.16,0.0182,Bright Data,1,2
+llm-scraping,CHATGPT,cloro,550.0,0.0327,0.0091,0.0091,5.277777777777778,0.1473,0.02,0.0,cloro,8,6
+llm-scraping,CHATGPT,crawlbase,550.0,0.0018,0.0,0.0,3.0,0.02,0.0018,0.0,Crawlbase,15,11
+llm-scraping,CHATGPT,dataforseo,550.0,0.1,0.0218,0.0218,2.0727272727272728,0.0836,0.0945,0.0,DataForSEO,5,4
+llm-scraping,CHATGPT,firecrawl,550.0,0.1618,0.0436,0.0436,3.0,0.1436,0.1491,0.0,Firecrawl,2,3
+llm-scraping,CHATGPT,nimble,550.0,0.0,0.0,0.0,,0.0255,0.0,0.0,Nimble,17,11
+llm-scraping,CHATGPT,octoparse,550.0,0.0018,0.0,0.0,4.0,0.0109,0.0,0.0,Octoparse,15,11
+llm-scraping,CHATGPT,oxylabs,550.0,0.0636,0.0018,0.0018,4.628571428571429,0.0345,0.0582,0.0,Oxylabs,6,8
+llm-scraping,CHATGPT,scrapebadger,550.0,0.0,0.0,0.0,,0.02,0.0,0.0,ScrapeBadger,17,11
+llm-scraping,CHATGPT,scrapedo,550.0,0.0036,0.0018,0.0018,1.5,0.0418,0.0018,0.0,Scrape.do,14,8
+llm-scraping,CHATGPT,scraperapi,550.0,0.0309,0.0,0.0,5.764705882352941,0.0073,0.02,0.0,ScraperAPI,10,11
+llm-scraping,CHATGPT,scrapfly,550.0,0.0055,0.0,0.0,5.0,0.0127,0.0055,0.0,Scrapfly,13,11
+llm-scraping,CHATGPT,scrapingbee,550.0,0.0382,0.0,0.0,4.904761904761905,0.0345,0.0382,0.0,ScrapingBee,7,11
+llm-scraping,CHATGPT,scrapingdog,550.0,0.0327,0.0,0.0,4.166666666666667,0.0036,0.0309,0.0,Scrapingdog,8,11
+llm-scraping,CHATGPT,searchapi,550.0,0.0109,0.0055,0.0055,1.6666666666666667,0.0364,0.0055,0.0,SearchApi.io,12,7
+llm-scraping,CHATGPT,serpapi,550.0,0.1545,0.1109,0.1109,1.8,0.1418,0.1236,0.0,SerpApi,3,1
+llm-scraping,CHATGPT,serpentapi,550.0,0.0182,0.0018,0.0018,4.6,0.0909,0.0073,0.0,SerpentAPI,11,8
+llm-scraping,COPILOT,airefs,549.0,0.0,0.0,0.0,,0.0,0.0,0.0,Airefs,19,13
+llm-scraping,COPILOT,apify,549.0,0.1913,0.0273,0.0091,3.7142857142857144,0.0364,0.1785,0.0182,Apify,2,9
+llm-scraping,COPILOT,brightdata,549.0,0.2368,0.0856,0.0674,3.0153846153846153,0.0965,0.2113,0.0182,Bright Data,1,1
+llm-scraping,COPILOT,cloro,549.0,0.1075,0.0383,0.0383,3.3389830508474576,0.0874,0.0911,0.0,cloro,7,4
+llm-scraping,COPILOT,crawlbase,549.0,0.0182,0.0055,0.0055,2.8,0.0182,0.0164,0.0,Crawlbase,12,10
+llm-scraping,COPILOT,dataforseo,549.0,0.0947,0.0036,0.0036,3.019230769230769,0.0364,0.0747,0.0,DataForSEO,8,11
+llm-scraping,COPILOT,firecrawl,549.0,0.1676,0.0474,0.0474,2.5869565217391304,0.0,0.1457,0.0,Firecrawl,3,2
+llm-scraping,COPILOT,nimble,549.0,0.0018,0.0,0.0,3.0,0.0328,0.0018,0.0,Nimble,18,13
+llm-scraping,COPILOT,octoparse,549.0,0.0674,0.0018,0.0018,4.918918918918919,0.0619,0.0638,0.0,Octoparse,9,12
+llm-scraping,COPILOT,oxylabs,549.0,0.1421,0.0128,0.0128,3.8846153846153846,0.0,0.1202,0.0,Oxylabs,4,7
+llm-scraping,COPILOT,scrapebadger,549.0,0.0109,0.0,0.0,2.3333333333333335,0.0109,0.0109,0.0,ScrapeBadger,16,13
+llm-scraping,COPILOT,scrapedo,549.0,0.0219,0.0,0.0,2.8333333333333335,0.0237,0.0182,0.0,Scrape.do,11,13
+llm-scraping,COPILOT,scraperapi,549.0,0.0674,0.0109,0.0109,3.4594594594594597,0.0,0.0565,0.0,ScraperAPI,9,8
+llm-scraping,COPILOT,scrapfly,549.0,0.0091,0.0,0.0,7.2,0.0018,0.0073,0.0,Scrapfly,17,13
+llm-scraping,COPILOT,scrapingbee,549.0,0.133,0.0273,0.0273,4.068493150684931,0.0364,0.1111,0.0,ScrapingBee,5,5
+llm-scraping,COPILOT,scrapingdog,549.0,0.0128,0.0,0.0,4.714285714285714,0.0036,0.0109,0.0,Scrapingdog,15,13
+llm-scraping,COPILOT,searchapi,549.0,0.0164,0.0146,0.0146,1.3333333333333333,0.0291,0.0146,0.0,SearchApi.io,13,6
+llm-scraping,COPILOT,serpapi,549.0,0.1111,0.0437,0.0437,2.2131147540983607,0.0383,0.0947,0.0,SerpApi,6,3
+llm-scraping,COPILOT,serpentapi,549.0,0.0164,0.0,0.0,4.0,0.0492,0.0091,0.0,SerpentAPI,13,13
+llm-scraping,GEMINI,airefs,550.0,0.0,0.0,0.0,,0.0218,0.0,0.0,Airefs,18,12
+llm-scraping,GEMINI,apify,550.0,0.2364,0.0236,0.0055,3.776923076923077,0.08,0.1964,0.0182,Apify,2,8
+llm-scraping,GEMINI,brightdata,550.0,0.2709,0.1255,0.1073,2.51006711409396,0.14,0.2164,0.0182,Bright Data,1,2
+llm-scraping,GEMINI,cloro,550.0,0.1109,0.0218,0.0218,3.0491803278688523,0.1127,0.1073,0.0,cloro,7,4
+llm-scraping,GEMINI,crawlbase,550.0,0.0055,0.0,0.0,6.0,0.0,0.0055,0.0,Crawlbase,16,12
+llm-scraping,GEMINI,dataforseo,550.0,0.06,0.0164,0.0164,3.787878787878788,0.0182,0.0564,0.0,DataForSEO,9,5
+llm-scraping,GEMINI,firecrawl,550.0,0.1873,0.0764,0.0764,2.3300970873786406,0.1,0.16,0.0,Firecrawl,4,3
+llm-scraping,GEMINI,nimble,550.0,0.0273,0.0055,0.0055,2.466666666666667,0.04,0.02,0.0,Nimble,14,8
+llm-scraping,GEMINI,octoparse,550.0,0.0055,0.0,0.0,6.666666666666667,0.0309,0.0055,0.0,Octoparse,16,12
+llm-scraping,GEMINI,oxylabs,550.0,0.1345,0.0109,0.0109,3.675675675675676,0.0218,0.1218,0.0,Oxylabs,5,6
+llm-scraping,GEMINI,scrapebadger,550.0,0.0182,0.0,0.0,4.6,0.0236,0.0164,0.0,ScrapeBadger,15,12
+llm-scraping,GEMINI,scrapedo,550.0,0.0327,0.0,0.0,5.055555555555555,0.0182,0.0291,0.0,Scrape.do,13,12
+llm-scraping,GEMINI,scraperapi,550.0,0.1182,0.0055,0.0055,3.953846153846154,0.0036,0.1,0.0,ScraperAPI,6,8
+llm-scraping,GEMINI,scrapfly,550.0,0.0364,0.0,0.0,3.45,0.0345,0.0364,0.0,Scrapfly,12,12
+llm-scraping,GEMINI,scrapingbee,550.0,0.0909,0.0018,0.0018,4.42,0.0473,0.0873,0.0,ScrapingBee,8,11
+llm-scraping,GEMINI,scrapingdog,550.0,0.04,0.0,0.0,4.181818181818182,0.0218,0.04,0.0,Scrapingdog,11,12
+llm-scraping,GEMINI,searchapi,550.0,0.0545,0.0109,0.0109,2.066666666666667,0.0527,0.0545,0.0,SearchApi.io,10,6
+llm-scraping,GEMINI,serpapi,550.0,0.1891,0.1436,0.1436,1.625,0.0982,0.1782,0.0,SerpApi,3,1
+llm-scraping,GEMINI,serpentapi,550.0,0.0,0.0,0.0,,0.0018,0.0,0.0,SerpentAPI,18,12
+llm-scraping,PERPLEXITY,airefs,519.0,0.0,0.0,0.0,,0.0886,0.0,0.0,Airefs,17,9
+llm-scraping,PERPLEXITY,apify,519.0,0.0867,0.0154,0.0019,3.422222222222222,0.1715,0.0405,0.0173,Apify,3,6
+llm-scraping,PERPLEXITY,brightdata,519.0,0.1021,0.0636,0.0482,1.849056603773585,0.3102,0.0462,0.0193,Bright Data,2,1
+llm-scraping,PERPLEXITY,cloro,519.0,0.0039,0.0,0.0,3.0,0.2967,0.0019,0.0,cloro,13,9
+llm-scraping,PERPLEXITY,crawlbase,519.0,0.0,0.0,0.0,,0.0193,0.0,0.0,Crawlbase,17,9
+llm-scraping,PERPLEXITY,dataforseo,519.0,0.0154,0.0058,0.0058,1.75,0.0135,0.0116,0.0,DataForSEO,10,4
+llm-scraping,PERPLEXITY,firecrawl,519.0,0.106,0.0328,0.0328,2.2363636363636363,0.1811,0.0597,0.0,Firecrawl,1,3
+llm-scraping,PERPLEXITY,nimble,519.0,0.0019,0.0019,0.0019,1.0,0.0539,0.0,0.0,Nimble,16,6
+llm-scraping,PERPLEXITY,octoparse,519.0,0.0173,0.0,0.0,6.333333333333333,0.0751,0.0096,0.0,Octoparse,9,9
+llm-scraping,PERPLEXITY,oxylabs,519.0,0.0559,0.0,0.0,4.758620689655173,0.1175,0.025,0.0,Oxylabs,5,9
+llm-scraping,PERPLEXITY,scrapebadger,519.0,0.0039,0.0019,0.0019,1.5,0.0829,0.0,0.0,ScrapeBadger,13,6
+llm-scraping,PERPLEXITY,scrapedo,519.0,0.0385,0.0,0.0,5.3,0.1696,0.025,0.0,Scrape.do,7,9
+llm-scraping,PERPLEXITY,scraperapi,519.0,0.027,0.0,0.0,5.214285714285714,0.0983,0.0154,0.0,ScraperAPI,8,9
+llm-scraping,PERPLEXITY,scrapfly,519.0,0.0039,0.0,0.0,4.0,0.0617,0.0019,0.0,Scrapfly,13,9
+llm-scraping,PERPLEXITY,scrapingbee,519.0,0.0597,0.0039,0.0039,4.774193548387097,0.1098,0.0347,0.0,ScrapingBee,4,5
+llm-scraping,PERPLEXITY,scrapingdog,519.0,0.0116,0.0,0.0,8.666666666666666,0.0597,0.0077,0.0,Scrapingdog,11,9
+llm-scraping,PERPLEXITY,searchapi,519.0,0.0116,0.0,0.0,2.5,0.1426,0.0058,0.0,SearchApi.io,11,9
+llm-scraping,PERPLEXITY,serpapi,519.0,0.0482,0.0424,0.0424,1.2,0.1869,0.027,0.0,SerpApi,6,2
+llm-scraping,PERPLEXITY,serpentapi,519.0,0.0,0.0,0.0,,0.0,0.0,0.0,SerpentAPI,17,9
+serp-api,AIMODE,airefs,540.0,0.0074,0.0019,0.0019,4.25,0.1352,0.0,0.0,Airefs,17,9
+serp-api,AIMODE,apify,540.0,0.0685,0.0,0.0,4.297297297297297,0.137,0.0648,0.0,Apify,10,13
+serp-api,AIMODE,brightdata,540.0,0.3741,0.0852,0.0667,3.0594059405940595,0.2833,0.313,0.0185,Bright Data,4,3
+serp-api,AIMODE,cloro,540.0,0.0389,0.0037,0.0037,4.095238095238095,0.4019,0.0185,0.0,cloro,13,7
+serp-api,AIMODE,dataforseo,540.0,0.6296,0.1352,0.1167,2.573529411764706,0.3944,0.4981,0.0185,DataForSEO,2,2
+serp-api,AIMODE,firecrawl,540.0,0.05,0.0037,0.0037,3.185185185185185,0.0926,0.0426,0.0,Firecrawl,11,7
+serp-api,AIMODE,nimble,540.0,0.0037,0.0,0.0,4.5,0.0611,0.0019,0.0,Nimble,21,13
+serp-api,AIMODE,octoparse,540.0,0.0093,0.0,0.0,5.4,0.2833,0.0,0.0,Octoparse,16,13
+serp-api,AIMODE,olostep,540.0,0.013,0.0,0.0,5.142857142857143,0.3241,0.0019,0.0,Olostep,15,13
+serp-api,AIMODE,openwebninja,540.0,0.0222,0.0,0.0,5.083333333333333,0.2259,0.0074,0.0,OpenWeb Ninja,14,13
+serp-api,AIMODE,oxylabs,540.0,0.2056,0.013,0.013,4.126126126126126,0.0611,0.1685,0.0,Oxylabs,6,5
+serp-api,AIMODE,scrapebadger,540.0,0.0074,0.0,0.0,5.0,0.1778,0.0,0.0,ScrapeBadger,17,13
+serp-api,AIMODE,scrapecreators,540.0,0.0056,0.0019,0.0019,3.3333333333333335,0.2167,0.0019,0.0,ScrapeCreators,20,9
+serp-api,AIMODE,scraperapi,540.0,0.1574,0.0019,0.0019,4.352941176470588,0.0481,0.1426,0.0,ScraperAPI,7,9
+serp-api,AIMODE,scrapfly,540.0,0.0074,0.0,0.0,4.75,0.0852,0.0074,0.0,Scrapfly,17,13
+serp-api,AIMODE,scrapingbee,540.0,0.0407,0.0019,0.0019,3.727272727272727,0.1167,0.0333,0.0,ScrapingBee,12,9
+serp-api,AIMODE,scrapingdog,540.0,0.0907,0.0,0.0,5.020408163265306,0.2222,0.0889,0.0,Scrapingdog,8,13
+serp-api,AIMODE,searchapi,540.0,0.237,0.0,0.0,4.1875,0.1296,0.2167,0.0,SearchApi.io,5,13
+serp-api,AIMODE,serpapi,540.0,0.8574,0.5407,0.5241,1.7408207343412527,0.6352,0.6519,0.0185,SerpApi,1,1
+serp-api,AIMODE,serpbase,540.0,0.0,0.0,0.0,,0.0,0.0,0.0,SerpBase,22,13
+serp-api,AIMODE,serpentapi,540.0,0.0796,0.0074,0.0074,3.511627906976744,0.3222,0.0704,0.0,SerpentAPI,9,6
+serp-api,AIMODE,serper,540.0,0.3907,0.0426,0.0426,3.161137440758294,0.0685,0.3296,0.0,Serper,3,4
+serp-api,CHATGPT,airefs,540.0,0.0,0.0,0.0,,0.0259,0.0,0.0,Airefs,18,11
+serp-api,CHATGPT,apify,540.0,0.0519,0.0,0.0,8.214285714285714,0.0333,0.0463,0.0,Apify,11,11
+serp-api,CHATGPT,brightdata,540.0,0.4407,0.0667,0.0481,3.1638655462184873,0.3519,0.3722,0.0185,Bright Data,3,3
+serp-api,CHATGPT,cloro,540.0,0.0259,0.0019,0.0019,5.857142857142857,0.2593,0.013,0.0,cloro,14,9
+serp-api,CHATGPT,dataforseo,540.0,0.6778,0.2981,0.2796,2.0846994535519126,0.6037,0.6,0.0185,DataForSEO,2,2
+serp-api,CHATGPT,firecrawl,540.0,0.0333,0.0,0.0,7.166666666666667,0.0537,0.0278,0.0,Firecrawl,12,11
+serp-api,CHATGPT,nimble,540.0,0.0,0.0,0.0,,0.0056,0.0,0.0,Nimble,18,11
+serp-api,CHATGPT,octoparse,540.0,0.0019,0.0,0.0,6.0,0.0167,0.0,0.0,Octoparse,17,11
+serp-api,CHATGPT,olostep,540.0,0.0,0.0,0.0,,0.0148,0.0,0.0,Olostep,18,11
+serp-api,CHATGPT,openwebninja,540.0,0.0056,0.0,0.0,7.666666666666667,0.2167,0.0,0.0,OpenWeb Ninja,15,11
+serp-api,CHATGPT,oxylabs,540.0,0.1981,0.0093,0.0093,3.953271028037383,0.1056,0.1833,0.0,Oxylabs,5,6
+serp-api,CHATGPT,scrapebadger,540.0,0.0,0.0,0.0,,0.0111,0.0,0.0,ScrapeBadger,18,11
+serp-api,CHATGPT,scrapecreators,540.0,0.0056,0.0,0.0,9.0,0.1481,0.0,0.0,ScrapeCreators,15,11
+serp-api,CHATGPT,scraperapi,540.0,0.0944,0.0019,0.0019,4.666666666666667,0.0759,0.0704,0.0,ScraperAPI,7,9
+serp-api,CHATGPT,scrapfly,540.0,0.0,0.0,0.0,,0.0593,0.0,0.0,Scrapfly,18,11
+serp-api,CHATGPT,scrapingbee,540.0,0.0648,0.0,0.0,5.285714285714286,0.0648,0.0611,0.0,ScrapingBee,10,11
+serp-api,CHATGPT,scrapingdog,540.0,0.0907,0.0,0.0,5.040816326530612,0.0833,0.0796,0.0,Scrapingdog,8,11
+serp-api,CHATGPT,searchapi,540.0,0.1019,0.0056,0.0056,4.9818181818181815,0.05,0.0944,0.0,SearchApi.io,6,8
+serp-api,CHATGPT,serpapi,540.0,0.8167,0.3815,0.363,2.0136054421768708,0.7093,0.6907,0.0185,SerpApi,1,1
+serp-api,CHATGPT,serpbase,540.0,0.0315,0.0093,0.0093,4.470588235294118,0.1981,0.0278,0.0,SerpBase,13,6
+serp-api,CHATGPT,serpentapi,540.0,0.0722,0.0148,0.0148,4.717948717948718,0.3667,0.0481,0.0,SerpentAPI,9,4
+serp-api,CHATGPT,serper,540.0,0.363,0.0148,0.0148,3.306122448979592,0.1815,0.3222,0.0,Serper,4,4
+serp-api,COPILOT,airefs,540.0,0.0,0.0,0.0,,0.013,0.0,0.0,Airefs,20,15
+serp-api,COPILOT,apify,540.0,0.1037,0.0,0.0,5.357142857142857,0.0296,0.0963,0.0,Apify,11,15
+serp-api,COPILOT,brightdata,540.0,0.4889,0.0759,0.0574,3.492424242424242,0.0685,0.4278,0.0185,Bright Data,3,3
+serp-api,COPILOT,cloro,540.0,0.0463,0.0111,0.0111,4.24,0.1056,0.0333,0.0,cloro,13,8
+serp-api,COPILOT,dataforseo,540.0,0.5315,0.1148,0.0963,2.7560975609756095,0.0593,0.4833,0.0185,DataForSEO,2,2
+serp-api,COPILOT,firecrawl,540.0,0.0333,0.0,0.0,4.722222222222222,0.0148,0.0315,0.0,Firecrawl,16,15
+serp-api,COPILOT,nimble,540.0,0.0019,0.0,0.0,7.0,0.0,0.0019,0.0,Nimble,19,15
+serp-api,COPILOT,octoparse,540.0,0.0315,0.0,0.0,3.588235294117647,0.0389,0.0204,0.0,Octoparse,17,15
+serp-api,COPILOT,olostep,540.0,0.0,0.0,0.0,,0.0037,0.0,0.0,Olostep,20,15
+serp-api,COPILOT,openwebninja,540.0,0.1204,0.0074,0.0074,5.553846153846154,0.1407,0.1056,0.0,OpenWeb Ninja,8,9
+serp-api,COPILOT,oxylabs,540.0,0.2611,0.0352,0.0352,4.773049645390071,0.0,0.2333,0.0,Oxylabs,5,4
+serp-api,COPILOT,scrapebadger,540.0,0.0,0.0,0.0,,0.0,0.0,0.0,ScrapeBadger,20,15
+serp-api,COPILOT,scrapecreators,540.0,0.0444,0.0,0.0,5.708333333333333,0.2481,0.0241,0.0,ScrapeCreators,14,15
+serp-api,COPILOT,scraperapi,540.0,0.1056,0.0019,0.0019,6.105263157894737,0.0,0.0926,0.0,ScraperAPI,10,13
+serp-api,COPILOT,scrapfly,540.0,0.0056,0.0019,0.0019,4.0,0.0,0.0056,0.0,Scrapfly,18,13
+serp-api,COPILOT,scrapingbee,540.0,0.0444,0.0037,0.0037,5.583333333333333,0.0111,0.0352,0.0,ScrapingBee,14,12
+serp-api,COPILOT,scrapingdog,540.0,0.1407,0.0222,0.0222,5.4868421052631575,0.0093,0.1333,0.0,Scrapingdog,6,5
+serp-api,COPILOT,searchapi,540.0,0.0722,0.0056,0.0056,5.6923076923076925,0.0167,0.063,0.0,SearchApi.io,12,11
+serp-api,COPILOT,serpapi,540.0,0.7833,0.4056,0.387,2.286052009456265,0.1944,0.6907,0.0185,SerpApi,1,1
+serp-api,COPILOT,serpbase,540.0,0.1389,0.0167,0.0167,2.6533333333333333,0.1,0.1037,0.0,SerpBase,7,7
+serp-api,COPILOT,serpentapi,540.0,0.1148,0.0074,0.0074,3.161290322580645,0.3074,0.0944,0.0,SerpentAPI,9,9
+serp-api,COPILOT,serper,540.0,0.3093,0.0222,0.0222,3.9221556886227544,0.0,0.2519,0.0,Serper,4,5
+serp-api,GEMINI,airefs,540.0,0.0,0.0,0.0,,0.1222,0.0,0.0,Airefs,21,13
+serp-api,GEMINI,apify,540.0,0.0574,0.0,0.0,5.741935483870968,0.013,0.0481,0.0,Apify,12,13
+serp-api,GEMINI,brightdata,540.0,0.3981,0.0833,0.0648,3.5348837209302326,0.0944,0.3648,0.0185,Bright Data,4,3
+serp-api,GEMINI,cloro,540.0,0.0611,0.0,0.0,5.484848484848484,0.2722,0.0611,0.0,cloro,11,13
+serp-api,GEMINI,dataforseo,540.0,0.5574,0.1185,0.1,2.9700996677740865,0.0648,0.4648,0.0185,DataForSEO,2,2
+serp-api,GEMINI,firecrawl,540.0,0.0833,0.0056,0.0056,4.2,0.0704,0.0833,0.0,Firecrawl,10,6
+serp-api,GEMINI,nimble,540.0,0.0019,0.0,0.0,6.0,0.0056,0.0019,0.0,Nimble,20,13
+serp-api,GEMINI,octoparse,540.0,0.0259,0.0037,0.0037,3.2857142857142856,0.113,0.0185,0.0,Octoparse,15,7
+serp-api,GEMINI,olostep,540.0,0.0074,0.0,0.0,7.75,0.0519,0.0074,0.0,Olostep,18,13
+serp-api,GEMINI,openwebninja,540.0,0.0167,0.0,0.0,4.888888888888889,0.0593,0.0148,0.0,OpenWeb Ninja,17,13
+serp-api,GEMINI,oxylabs,540.0,0.2241,0.0019,0.0019,4.223140495867769,0.0019,0.2019,0.0,Oxylabs,7,9
+serp-api,GEMINI,scrapebadger,540.0,0.0185,0.0,0.0,4.3,0.0259,0.0148,0.0,ScrapeBadger,16,13
+serp-api,GEMINI,scrapecreators,540.0,0.0,0.0,0.0,,0.0111,0.0,0.0,ScrapeCreators,21,13
+serp-api,GEMINI,scraperapi,540.0,0.15,0.0,0.0,5.0,0.0556,0.1315,0.0,ScraperAPI,8,13
+serp-api,GEMINI,scrapfly,540.0,0.1,0.0019,0.0019,4.388888888888889,0.1019,0.0926,0.0,Scrapfly,9,9
+serp-api,GEMINI,scrapingbee,540.0,0.0426,0.0019,0.0019,4.0,0.0389,0.037,0.0,ScrapingBee,14,9
+serp-api,GEMINI,scrapingdog,540.0,0.2778,0.0037,0.0037,4.006666666666667,0.1648,0.2556,0.0,Scrapingdog,6,7
+serp-api,GEMINI,searchapi,540.0,0.2907,0.0019,0.0019,4.050955414012739,0.013,0.2889,0.0,SearchApi.io,5,9
+serp-api,GEMINI,serpapi,540.0,0.8074,0.5444,0.5259,1.7293577981651376,0.3148,0.6667,0.0185,SerpApi,1,1
+serp-api,GEMINI,serpbase,540.0,0.0056,0.0,0.0,2.3333333333333335,0.0,0.0056,0.0,SerpBase,19,13
+serp-api,GEMINI,serpentapi,540.0,0.0444,0.0074,0.0074,3.9583333333333335,0.0926,0.0426,0.0,SerpentAPI,13,5
+serp-api,GEMINI,serper,540.0,0.4407,0.0648,0.0648,2.861344537815126,0.0037,0.387,0.0,Serper,3,3
+serp-api,PERPLEXITY,airefs,500.0,0.0,0.0,0.0,,0.268,0.0,0.0,Airefs,17,11
+serp-api,PERPLEXITY,apify,500.0,0.028,0.0,0.0,8.357142857142858,0.062,0.018,0.0,Apify,13,11
+serp-api,PERPLEXITY,brightdata,500.0,0.22,0.064,0.054,2.7363636363636363,0.4,0.094,0.018,Bright Data,3,3
+serp-api,PERPLEXITY,cloro,500.0,0.056,0.02,0.02,2.5357142857142856,0.462,0.03,0.0,cloro,7,4
+serp-api,PERPLEXITY,dataforseo,500.0,0.26,0.08,0.06,1.9923076923076923,0.192,0.102,0.02,DataForSEO,2,2
+serp-api,PERPLEXITY,firecrawl,500.0,0.04,0.004,0.004,5.3,0.13,0.036,0.0,Firecrawl,10,8
+serp-api,PERPLEXITY,nimble,500.0,0.0,0.0,0.0,,0.008,0.0,0.0,Nimble,17,11
+serp-api,PERPLEXITY,octoparse,500.0,0.008,0.0,0.0,4.0,0.07,0.002,0.0,Octoparse,16,11
+serp-api,PERPLEXITY,olostep,500.0,0.0,0.0,0.0,,0.09,0.0,0.0,Olostep,17,11
+serp-api,PERPLEXITY,openwebninja,500.0,0.0,0.0,0.0,,0.106,0.0,0.0,OpenWeb Ninja,17,11
+serp-api,PERPLEXITY,oxylabs,500.0,0.058,0.006,0.006,4.103448275862069,0.05,0.028,0.0,Oxylabs,6,6
+serp-api,PERPLEXITY,scrapebadger,500.0,0.0,0.0,0.0,,0.036,0.0,0.0,ScrapeBadger,17,11
+serp-api,PERPLEXITY,scrapecreators,500.0,0.014,0.0,0.0,8.142857142857142,0.218,0.004,0.0,ScrapeCreators,15,11
+serp-api,PERPLEXITY,scraperapi,500.0,0.054,0.004,0.004,4.2592592592592595,0.112,0.024,0.0,ScraperAPI,8,8
+serp-api,PERPLEXITY,scrapfly,500.0,0.032,0.0,0.0,5.5,0.164,0.024,0.0,Scrapfly,12,11
+serp-api,PERPLEXITY,scrapingbee,500.0,0.046,0.0,0.0,4.478260869565218,0.15,0.018,0.0,ScrapingBee,9,11
+serp-api,PERPLEXITY,scrapingdog,500.0,0.068,0.008,0.008,4.0588235294117645,0.364,0.032,0.0,Scrapingdog,5,5
+serp-api,PERPLEXITY,searchapi,500.0,0.036,0.002,0.002,4.388888888888889,0.166,0.026,0.0,SearchApi.io,11,10
+serp-api,PERPLEXITY,serpapi,500.0,0.49,0.332,0.314,1.510204081632653,0.434,0.138,0.02,SerpApi,1,1
+serp-api,PERPLEXITY,serpbase,500.0,0.0,0.0,0.0,,0.002,0.0,0.0,SerpBase,17,11
+serp-api,PERPLEXITY,serpentapi,500.0,0.02,0.0,0.0,3.4,0.222,0.01,0.0,SerpentAPI,14,11
+serp-api,PERPLEXITY,serper,500.0,0.124,0.006,0.006,3.870967741935484,0.042,0.062,0.0,Serper,4,6

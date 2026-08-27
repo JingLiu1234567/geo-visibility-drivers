@@ -1,0 +1,16 @@
+﻿motion,engine,n,visibility,rank_vis,top1_clean,rank_top1,cited_rate,leader,leader_vis,n_panel
+ai-tracking-api,AIMODE,609.0,0.0131,12,0.0082,8,0.0542,Profound,0.3218,19
+ai-tracking-api,CHATGPT,610.0,0.0213,9,0.0082,7,0.1131,Profound,0.1754,19
+ai-tracking-api,COPILOT,610.0,0.0279,8,0.0164,4,0.0705,Profound,0.1836,19
+ai-tracking-api,GEMINI,610.0,0.0639,4,0.0344,3,0.0574,Profound,0.3246,19
+ai-tracking-api,PERPLEXITY,569.0,0.0158,2,0.0088,3,0.1019,Profound,0.0439,19
+llm-scraping,AIMODE,548.0,0.0529,9,0.0328,4,0.1953,Bright Data,0.2318,19
+llm-scraping,CHATGPT,550.0,0.0327,8,0.0091,6,0.1473,Bright Data,0.1909,19
+llm-scraping,COPILOT,549.0,0.1075,7,0.0383,4,0.0874,Bright Data,0.2368,19
+llm-scraping,GEMINI,550.0,0.1109,7,0.0218,4,0.1127,Bright Data,0.2709,19
+llm-scraping,PERPLEXITY,519.0,0.0039,13,0.0,9,0.2967,Firecrawl,0.106,19
+serp-api,AIMODE,540.0,0.0389,13,0.0037,7,0.4019,SerpApi,0.8574,22
+serp-api,CHATGPT,540.0,0.0259,14,0.0019,9,0.2593,SerpApi,0.8167,22
+serp-api,COPILOT,540.0,0.0463,13,0.0111,8,0.1056,SerpApi,0.7833,22
+serp-api,GEMINI,540.0,0.0611,11,0.0,13,0.2722,SerpApi,0.8074,22
+serp-api,PERPLEXITY,500.0,0.056,7,0.02,4,0.462,SerpApi,0.49,22

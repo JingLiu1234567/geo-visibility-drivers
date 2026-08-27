@@ -1,0 +1,61 @@
+﻿motion,brand,n,visibility,cited_rate,P(mention|cited),P(mention|not cited),share of mentions with citation,name
+ai-tracking-api,amicited,3008.0,0.0037,0.0349,0.0952,0.0003,0.9091,AmICited
+ai-tracking-api,ayzeo,3008.0,0.005,0.0163,0.1837,0.002,0.6,Ayzeo
+ai-tracking-api,cloro,3008.0,0.0286,0.0791,0.3151,0.004,0.8721,cloro
+ai-tracking-api,deepsmith,3008.0,0.0037,0.0236,0.1127,0.001,0.7273,DeepSmith
+ai-tracking-api,demandsphere,3008.0,0.0123,0.0196,0.6271,0.0,1.0,DemandSphere
+ai-tracking-api,evertune,3008.0,0.0203,0.0183,0.4364,0.0125,0.3934,Evertune
+ai-tracking-api,foglift,3008.0,0.0076,0.0273,0.1098,0.0048,0.3913,Foglift
+ai-tracking-api,geneo,3008.0,0.0027,0.0123,0.1892,0.0003,0.875,Geneo
+ai-tracking-api,llmpulse,3008.0,0.0399,0.1041,0.345,0.0045,0.9,LLM Pulse
+ai-tracking-api,mentionsapi,3008.0,0.0189,0.0309,0.4731,0.0045,0.7719,MentionsAPI
+ai-tracking-api,otterly,3008.0,0.1154,0.0795,0.3431,0.0957,0.2363,Otterly.AI
+ai-tracking-api,peec,3008.0,0.12,0.0266,0.7125,0.1038,0.1579,Peec
+ai-tracking-api,profound,3008.0,0.2121,0.0957,0.5347,0.1779,0.2414,Profound
+ai-tracking-api,prominenceai,3008.0,0.007,0.0103,0.6452,0.0003,0.9524,Prominence AI
+ai-tracking-api,rankprompt,3008.0,0.0199,0.0243,0.6575,0.0041,0.8,RankPrompt
+ai-tracking-api,rankscale,3008.0,0.0209,0.0073,0.4545,0.0177,0.1587,Rankscale
+ai-tracking-api,scrunch,3008.0,0.0479,0.0239,0.3889,0.0395,0.1944,Scrunch AI
+ai-tracking-api,siftly,3008.0,0.0236,0.0549,0.3576,0.0042,0.831,Siftly
+ai-tracking-api,writesonic,3008.0,0.009,0.0223,0.1493,0.0058,0.3704,Writesonic
+llm-scraping,airefs,2716.0,0.0,0.025,0.0,0.0,,Airefs
+llm-scraping,apify,2716.0,0.1738,0.1267,0.6163,0.1096,0.4492,Apify
+llm-scraping,brightdata,2716.0,0.2077,0.1841,0.65,0.1079,0.5762,Bright Data
+llm-scraping,cloro,2716.0,0.0622,0.1664,0.2655,0.0216,0.7101,cloro
+llm-scraping,crawlbase,2716.0,0.0066,0.0191,0.2308,0.0023,0.6667,Crawlbase
+llm-scraping,dataforseo,2716.0,0.0729,0.0501,0.8971,0.0295,0.6162,DataForSEO
+llm-scraping,firecrawl,2716.0,0.1649,0.1318,0.7654,0.0738,0.6116,Firecrawl
+llm-scraping,nimble,2716.0,0.0074,0.0416,0.1416,0.0015,0.8,Nimble
+llm-scraping,octoparse,2716.0,0.0206,0.0608,0.2182,0.0078,0.6429,Octoparse
+llm-scraping,oxylabs,2716.0,0.0994,0.0475,0.3566,0.0866,0.1704,Oxylabs
+llm-scraping,scrapebadger,2716.0,0.0099,0.0527,0.1888,0.0,1.0,ScrapeBadger
+llm-scraping,scrapedo,2716.0,0.0272,0.0685,0.2796,0.0087,0.7027,Scrape.do
+llm-scraping,scraperapi,2716.0,0.0707,0.025,0.2206,0.0668,0.0781,ScraperAPI
+llm-scraping,scrapfly,2716.0,0.0203,0.0497,0.3556,0.0027,0.8727,Scrapfly
+llm-scraping,scrapingbee,2716.0,0.0792,0.0758,0.4126,0.0518,0.3953,ScrapingBee
+llm-scraping,scrapingdog,2716.0,0.025,0.028,0.3684,0.0152,0.4118,Scrapingdog
+llm-scraping,searchapi,2716.0,0.0276,0.067,0.3462,0.0047,0.84,SearchApi.io
+llm-scraping,serpapi,2716.0,0.1355,0.1237,0.747,0.0492,0.6821,SerpApi
+llm-scraping,serpentapi,2716.0,0.0074,0.0306,0.241,0.0,1.0,SerpentAPI
+serp-api,airefs,2660.0,0.0015,0.1105,0.0102,0.0004,0.75,Airefs
+serp-api,apify,2660.0,0.0624,0.0549,0.3699,0.0446,0.3253,Apify
+serp-api,brightdata,2660.0,0.3868,0.2372,0.6656,0.3001,0.4082,Bright Data
+serp-api,cloro,2660.0,0.0455,0.2977,0.1477,0.0021,0.9669,cloro
+serp-api,dataforseo,2660.0,0.5353,0.2639,0.906,0.4025,0.4466,DataForSEO
+serp-api,firecrawl,2660.0,0.0481,0.0714,0.4105,0.0202,0.6094,Firecrawl
+serp-api,nimble,2660.0,0.0015,0.0162,0.0465,0.0008,0.5,Nimble
+serp-api,octoparse,2660.0,0.0154,0.1049,0.1398,0.0008,0.9512,Octoparse
+serp-api,olostep,2660.0,0.0041,0.097,0.0426,0.0,1.0,Olostep
+serp-api,openwebninja,2660.0,0.0335,0.1504,0.205,0.0031,0.9213,OpenWeb Ninja
+serp-api,oxylabs,2660.0,0.1914,0.0436,0.7586,0.1655,0.1729,Oxylabs
+serp-api,scrapebadger,2660.0,0.0053,0.0504,0.0746,0.0016,0.7143,ScrapeBadger
+serp-api,scrapecreators,2660.0,0.0139,0.1677,0.0807,0.0005,0.973,ScrapeCreators
+serp-api,scraperapi,2660.0,0.1132,0.0575,0.4967,0.0897,0.2525,ScraperAPI
+serp-api,scrapfly,2660.0,0.0289,0.0808,0.2465,0.0098,0.6883,Scrapfly
+serp-api,scrapingbee,2660.0,0.0477,0.0752,0.325,0.0252,0.5118,ScrapingBee
+serp-api,scrapingdog,2660.0,0.1346,0.1658,0.3129,0.0991,0.3855,Scrapingdog
+serp-api,searchapi,2660.0,0.1492,0.0737,0.4949,0.1218,0.2443,SearchApi.io
+serp-api,serpapi,2660.0,0.7549,0.4579,0.9384,0.5999,0.5692,SerpApi
+serp-api,serpbase,2660.0,0.0357,0.0609,0.3642,0.0144,0.6211,SerpBase
+serp-api,serpentapi,2660.0,0.0669,0.2628,0.2461,0.0031,0.9663,SerpentAPI
+serp-api,serper,2660.0,0.3286,0.0594,0.6899,0.3058,0.1247,Serper

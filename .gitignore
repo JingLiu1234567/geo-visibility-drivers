@@ -1,0 +1,15 @@
+# raw and derived data (contain the full answer texts of the take-home dataset; not redistributed)
+data/results.csv
+data/clean.csv
+data/clean.parquet
+data/answer_brand.parquet
+data/answers.parquet
+data/prompts.csv
+
+__pycache__/
+*.pyc
+.DS_Store
+
+# local scratch notebooks
+*.ipynb
+.ipynb_checkpoints/

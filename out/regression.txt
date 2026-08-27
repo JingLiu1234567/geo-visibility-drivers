@@ -1,0 +1,56 @@
+
+[question ii  Y=mentioned  logit (brand / engine / topic / intent FE)]  n=167,276  pseudo-R2=0.533
+                                 coef  odds_ratio      p
+C(intentType)[T.informational] -0.220       0.803  0.008
+cited                           3.719      41.215  0.000
+named_in_prompt                 4.579      97.374  0.000
+log_len                         0.171       1.186  0.006
+log_src                        -0.197       0.821  0.000
+n_brands_named                  0.449       1.567  0.000
+
+[question ii  Y=mentioned  OLS-LPM (brand / engine / prompt FE)]  n=167,276  R2=0.353
+                 coef (pct points)      p
+cited                        32.05  0.000
+named_in_prompt              46.32  0.000
+log_len                       0.22  0.129
+log_src                      -0.83  0.000
+n_brands_named                2.65  0.000
+
+[question ii  effect of `cited` by engine]  OR = logit odds ratio (brand / motion / intent FE); LPM = percentage-point increase in P(mention) (prompt FE)
+    engine  OR_cited  LPM_pct_points   p
+    AIMODE      32.9            31.9 0.0
+   CHATGPT      57.4            42.8 0.0
+   COPILOT     263.0            50.5 0.0
+    GEMINI      63.8            49.8 0.0
+PERPLEXITY      19.2            14.8 0.0
+
+[question i   Y=top1 | mentioned  logit]  n=13,451  pseudo-R2=0.353
+                                 coef  odds_ratio      p
+C(intentType)[T.informational]  0.282       1.325  0.001
+cited                           0.370       1.448  0.000
+first_cited                     2.397      10.990  0.000
+named_in_prompt                 6.538     690.998  0.000
+listed_option                   0.043       1.043  0.602
+n_brands_named                 -0.224       0.800  0.000
+
+[question i   Y=top1 | mentioned  OLS-LPM (prompt FE)]  n=13,451  R2=0.393
+                 coef (pct points)      p
+cited                         6.13  0.000
+first_cited                  40.26  0.000
+named_in_prompt              81.13  0.000
+listed_option                 1.54  0.165
+n_brands_named               -2.19  0.000
+
+[cloro only  Y=mentioned  n=8,384]
+                                odds_ratio      p
+Intercept                            0.237  0.466
+C(engine)[T.CHATGPT]                 0.809  0.585
+C(engine)[T.COPILOT]                 5.425  0.000
+C(engine)[T.GEMINI]                  4.498  0.000
+C(engine)[T.PERPLEXITY]              0.398  0.096
+C(motion)[T.llm-scraping]            1.273  0.470
+C(motion)[T.serp-api]                0.205  0.000
+C(intentType)[T.informational]       0.538  0.073
+cited                               57.430  0.000
+log_len                              0.534  0.017
+n_brands_named                       1.350  0.000

@@ -1,0 +1,141 @@
+﻿key,name,panels,name_regex,domains
+cloro,cloro,serp-api;llm-scraping;ai-tracking-api,cloro(?:\.dev)?,cloro.dev;cloro.us;cloro.mintlify.app
+serpapi,SerpApi,serp-api;llm-scraping,serpapi(?:\.com)?,serpapi.com
+dataforseo,DataForSEO,serp-api;llm-scraping,dataforseo(?:\.com)?,dataforseo.com
+serper,Serper,serp-api,serper(?:\.dev)?,serper.dev
+brightdata,Bright Data,serp-api;llm-scraping,bright\s?data,brightdata.com;brightdata.de;brightdata.es;brightdata.jp;brightdata.com.br;brightdata.co.kr;brightdata.mintlify.app
+oxylabs,Oxylabs,serp-api;llm-scraping,oxylabs,oxylabs.io;oxylabs.cn
+searchapi,SearchApi.io,serp-api;llm-scraping,searchapi(?:\.io)?,searchapi.io
+scrapingdog,Scrapingdog,serp-api;llm-scraping,scrapingdog,scrapingdog.com
+scrapingbee,ScrapingBee,serp-api;llm-scraping,scrapingbee,scrapingbee.com
+scraperapi,ScraperAPI,serp-api;llm-scraping,scraperapi|(?-i:Scraper API),scraperapi.com;scraperapi.io
+scrapfly,Scrapfly,serp-api;llm-scraping,scrapfly,scrapfly.io
+apify,Apify,serp-api;llm-scraping,apify,apify.com;use-apify.com
+firecrawl,Firecrawl,serp-api;llm-scraping,firecrawl,firecrawl.dev
+nimble,Nimble,serp-api;llm-scraping,(?-i:Nimble)(?:way)?,nimbleway.com
+octoparse,Octoparse,serp-api;llm-scraping,octoparse,octoparse.com
+olostep,Olostep,serp-api,olostep,olostep.com
+serpentapi,SerpentAPI,serp-api;llm-scraping,serpent\s?api,serpentapi.com;apiserpent.com
+scrapebadger,ScrapeBadger,serp-api;llm-scraping,scrape\s?badger,scrapebadger.com
+serpbase,SerpBase,serp-api,serpbase(?:\.dev)?,serpbase.dev
+openwebninja,OpenWeb Ninja,serp-api,open\s?web\s?ninja,openwebninja.com
+scrapecreators,ScrapeCreators,serp-api,scrape\s?creators,scrapecreators.com
+airefs,Airefs,serp-api;llm-scraping,airefs,getairefs.com
+crawlbase,Crawlbase,llm-scraping,crawlbase,crawlbase.com
+scrapedo,Scrape.do,llm-scraping,scrape\.?do,scrape.do
+profound,Profound,ai-tracking-api,(?-i:Profound)|tryprofound,tryprofound.com;profound.com
+peec,Peec,ai-tracking-api,peec(?:\.ai)?,peec.ai
+otterly,Otterly.AI,ai-tracking-api,otterly(?:\.ai)?,otterly.ai
+llmpulse,LLM Pulse,ai-tracking-api,llm\s?pulse,llmpulse.ai
+siftly,Siftly,ai-tracking-api,siftly(?:\.ai)?,siftly.ai
+mentionsapi,MentionsAPI,ai-tracking-api,mentions\s?api,mentionsapi.com
+demandsphere,DemandSphere,ai-tracking-api,demand\s?sphere,demandsphere.com
+prominenceai,Prominence AI,ai-tracking-api,prominence\s?ai,prominenceai.io
+geneo,Geneo,ai-tracking-api,geneo,geneo.app
+scrunch,Scrunch AI,ai-tracking-api,scrunch(?:\s?ai)?,scrunch.com;scrunchai.com
+rankscale,Rankscale,ai-tracking-api,rank\s?scale,rankscale.ai
+evertune,Evertune,ai-tracking-api,evertune(?:\.ai)?,evertune.ai
+deepsmith,DeepSmith,ai-tracking-api,deep\s?smith,deepsmith.ai
+foglift,Foglift,ai-tracking-api,foglift,foglift.io
+writesonic,Writesonic,ai-tracking-api,writesonic,writesonic.com
+rankprompt,RankPrompt,ai-tracking-api,rank\s?prompt,rankprompt.com
+ayzeo,Ayzeo,ai-tracking-api,ayzeo,ayzeo.com
+amicited,AmICited,ai-tracking-api,(?-i:Am I Cited|AmICited)|amicited\.com,amicited.com
+tavily,Tavily,other,tavily,tavily.com;tavily.org
+exa,Exa,other,exa(?:\.ai)?,exa.ai
+semrush,Semrush,other,semrush,semrush.com
+ahrefs,Ahrefs,other,ahrefs,ahrefs.com
+seranking,SE Ranking,other,se\s?ranking,seranking.com
+similarweb,Similarweb,other,similar\s?web,similarweb.com
+bravesearch,Brave Search,other,(?-i:Brave)(?:\s?Search)?,brave.com
+parallel,Parallel,other,parallel\.ai|(?-i:Parallel (?:AI|Web|Search)),parallel.ai
+zenrows,ZenRows,other,zenrows,zenrows.com
+zyte,Zyte,other,zyte,zyte.com
+decodo,Decodo,other,decodo,decodo.com
+smartproxy,Smartproxy,other,smart\s?proxy,smartproxy.com
+hasdata,HasData,other,hasdata,hasdata.com
+valueserp,ValueSERP,other,value\s?serp,valueserp.com
+scaleserp,Scale SERP,other,scale\s?serp,scaleserp.com
+serpstack,Serpstack,other,serpstack,serpstack.com
+serply,Serply,other,serply(?:\.io)?,serply.io
+serpwow,SerpWow,other,serpwow,serpwow.com
+thordata,Thordata,other,thordata,thordata.com
+jina,Jina AI,other,jina(?:\.ai)?,jina.ai
+diffbot,Diffbot,other,diffbot,diffbot.com
+browserbase,Browserbase,other,browserbase,browserbase.com
+crawl4ai,Crawl4AI,other,crawl4ai,crawl4ai.com
+youcom,You.com,other,you\.com,you.com
+linkup,Linkup,other,linkup(?:\.so)?,linkup.so
+infatica,Infatica,other,infatica,infatica.io
+thruuu,thruuu,other,thruuu,thruuu.com
+agentgeo,AgentGEO,other,agent\s?geo,agentgeo.org
+zenserp,Zenserp,other,zenserp,zenserp.com
+serplib,SerpLib,other,serplib,serplib.com
+xcrawl,XCrawl,other,xcrawl,xcrawl.com
+openserp,OpenSERP,other,openserp,openserp.org
+knowledgesdk,KnowledgeSDK,other,knowledgesdk,knowledgesdk.com
+scrapeless,Scrapeless,other,scrapeless,scrapeless.com
+scavio,Scavio,other,scavio,scavio.dev
+scrapegraphai,ScrapeGraphAI,other,scrape\s?graph\s?ai,scrapegraphai.com
+conductor,Conductor,other,(?-i:Conductor),conductor.com
+talordata,TalorData,other,talor\s?data,talordata.com
+rankability,Rankability,other,rankability,rankability.com
+serphouse,SERPHouse,other,serp\s?house,serphouse.com
+tinyfish,TinyFish,other,tiny\s?fish,tinyfish.ai
+kime,KIME,other,(?-i:KIME|Kime),kime.ai
+serplify,Serplify,other,serplify,serplify.io
+promptrush,PromptRush,other,prompt\s?rush,promptrush.ai
+brightedge,BrightEdge,other,bright\s?edge,brightedge.com
+outscraper,Outscraper,other,outscraper,outscraper.com
+nightwatch,Nightwatch,other,(?-i:Nightwatch),nightwatch.io
+athenahq,AthenaHQ,other,athena\s?hq,athenahq.ai
+genrank,GenRank,other,gen\s?rank,genrank.io
+searlo,Searlo,other,searlo,searlo.tech
+contextdev,Context.dev,other,context\.dev,context.dev
+sellm,Sellm,other,sellm,sellm.io
+alterlab,AlterLab,other,alter\s?lab,alterlab.io
+cognizo,Cognizo,other,cognizo,cognizo.ai
+ziptie,ZipTie,other,zip\s?tie,ziptie.dev
+searchcans,SearchCans,other,search\s?cans,searchcans.com
+brand24,Brand24,other,brand\s?24,brand24.com
+aiclicks,AIclicks,other,ai\s?clicks,aiclicks.io
+workduo,WorkDuo,other,work\s?duo,workduo.ai
+spidra,Spidra,other,spidra,spidra.io
+keywordcom,Keyword.com,other,keyword\.com,keyword.com
+trajectdata,Traject Data,other,traject\s?data,trajectdata.com
+kadoa,Kadoa,other,kadoa,kadoa.com
+promptwatch,Promptwatch,other,prompt\s?watch,promptwatch.com
+finseo,Finseo,other,finseo,finseo.ai
+citadex,Citadex,other,citadex,citadex.io
+beamtrace,Beamtrace,other,beam\s?trace,beamtrace.com
+wellows,Wellows,other,wellows,wellows.com
+mentionscout,MentionScout,other,mention\s?scout,mentionscout.com
+knowatoa,Knowatoa,other,knowatoa,knowatoa.com
+jetoctopus,JetOctopus,other,jet\s?octopus,jetoctopus.com
+citlyze,Citlyze,other,citlyze,citlyze.com
+bringits,Bringits,other,bringits,bringits.com
+serpsearch,SERP Search,other,(?-i:SERP Search)|serpsearch\.com,serpsearch.com
+browserless,Browserless,other,browserless,browserless.io
+brandtrace,Brandtrace,other,brandtrace,brandtrace.net
+edenai,Eden AI,other,eden\s?ai,edenai.co
+shifter,Shifter,other,(?-i:Shifter),shifter.io
+scrapellm,ScrapeLLM,other,scrape\s?llm,scrapellm.com
+scrapeinsight,ScrapeInsight,other,scrape\s?insight,scrapeinsight.com
+keirolabs,Keirolabs,other,keiro\s?labs,keirolabs.cloud
+antsdata,AntsData,other,ants\s?data,antsdata.com
+aeovision,AEO Vision,other,aeo\s?vision,aeovision.ai
+trustablelabs,Trustable Labs,other,trustable\s?labs,trustablelabs.com
+measurellm,MeasureLLM,other,measure\s?llm,measurellm.com
+frizerly,Frizerly,other,frizerly,frizerly.com
+frase,Frase,other,(?-i:Frase),frase.io
+meltwater,Meltwater,other,meltwater,meltwater.com
+brandwatch,Brandwatch,other,brandwatch,brandwatch.com
+talkwalker,Talkwalker,other,talkwalker,talkwalker.com
+muckrack,Muck Rack,other,muck\s?rack,muckrack.com
+visualping,Visualping,other,visualping,visualping.io
+fetchserp,FetchSERP,other,fetch\s?serp,fetchserp.com
+browseract,BrowserAct,other,browseract,browseract.com
+authoritas,Authoritas,other,authoritas,authoritas.com
+opttab,Opttab,other,opttab,opttab.com
+aisearchapi,AI Search API (aisearchapi.dev),other,aisearchapi(?:\.dev)?,aisearchapi.dev
+spidercloud,Spider.cloud,other,spider\.cloud,spider.cloud
