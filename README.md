@@ -1,7 +1,8 @@
-# cloro GEO take-home — analysis pipeline
+# GEO visibility drivers — analysis pipeline
 
 What drives (i) the number-one position and (ii) visibility for a brand in generative-engine answers,
-using 13 days of answers from 8 AI search engines to 182 prompts in the categories cloro sells into.
+using 13 days of answers from 8 AI search engines to 182 prompts across three product categories
+(SERP APIs, LLM-answer scraping APIs, AI-visibility tracking APIs). The brand under study is cloro.
 
 The written report (Google Doc) presents the findings; this repository holds the code that produces every
 number in it. `METHODS.md` explains the mathematical mechanisms behind each conclusion and maps each
